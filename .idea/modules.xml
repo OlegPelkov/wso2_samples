@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/passive-sts/passive-sts-client/PassiveSTSSample.iml" filepath="$PROJECT_DIR$/passive-sts/passive-sts-client/PassiveSTSSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passive-sts/passive-sts-client/PassiveSTSSampleApp/PassiveSTSSampleApp.iml" filepath="$PROJECT_DIR$/passive-sts/passive-sts-client/PassiveSTSSampleApp/PassiveSTSSampleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2/custom-grant/custom-grant.iml" filepath="$PROJECT_DIR$/oauth2/custom-grant/custom-grant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-mgt/remote-user-mgt/identity-samples-remote-user-mgt.iml" filepath="$PROJECT_DIR$/user-mgt/remote-user-mgt/identity-samples-remote-user-mgt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/identity-mgt/info-recovery-sample/info-recovery-sample.iml" filepath="$PROJECT_DIR$/identity-mgt/info-recovery-sample/info-recovery-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth/oauth10a-resource-owner-equivalent/oauth10a-resource-owner-equivalent.iml" filepath="$PROJECT_DIR$/oauth/oauth10a-resource-owner-equivalent/oauth10a-resource-owner-equivalent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xacml/kmarket-trading-sample/org.wso2.carbon.identity.samples.entitlement.kmarket.trading.iml" filepath="$PROJECT_DIR$/xacml/kmarket-trading-sample/org.wso2.carbon.identity.samples.entitlement.kmarket.trading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sts/sts-client/org.wso2.carbon.identity.samples.sts.iml" filepath="$PROJECT_DIR$/sts/sts-client/org.wso2.carbon.identity.samples.sts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passive-sts/passive-sts-client/PassiveSTSFilter/org.wso2.identity.passivests.filter.iml" filepath="$PROJECT_DIR$/passive-sts/passive-sts-client/PassiveSTSFilter/org.wso2.identity.passivests.filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso/sso-agent-sample/org.wso2.sample.is.sso.agent.iml" filepath="$PROJECT_DIR$/sso/sso-agent-sample/org.wso2.sample.is.sso.agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2/playground2/playground2.iml" filepath="$PROJECT_DIR$/oauth2/playground2/playground2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workflow/handler/service-provider/sample-handler.iml" filepath="$PROJECT_DIR$/workflow/handler/service-provider/sample-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/samples.iml" filepath="$PROJECT_DIR$/.idea/samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scim/scim-provisioning/scim-provisioning.iml" filepath="$PROJECT_DIR$/scim/scim-provisioning/scim-provisioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/identity-mgt/wso2is-identity-samples-info-recovery.iml" filepath="$PROJECT_DIR$/identity-mgt/wso2is-identity-samples-info-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth/wso2is-identity-samples-oauth10a.iml" filepath="$PROJECT_DIR$/oauth/wso2is-identity-samples-oauth10a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2/wso2is-identity-samples-oauth2.iml" filepath="$PROJECT_DIR$/oauth2/wso2is-identity-samples-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passive-sts/wso2is-identity-samples-passivests.iml" filepath="$PROJECT_DIR$/passive-sts/wso2is-identity-samples-passivests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scim/wso2is-identity-samples-scim.iml" filepath="$PROJECT_DIR$/scim/wso2is-identity-samples-scim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso/wso2is-identity-samples-sso.iml" filepath="$PROJECT_DIR$/sso/wso2is-identity-samples-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sts/wso2is-identity-samples-sts.iml" filepath="$PROJECT_DIR$/sts/wso2is-identity-samples-sts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-mgt/wso2is-identity-samples-usermgt.iml" filepath="$PROJECT_DIR$/user-mgt/wso2is-identity-samples-usermgt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xacml/wso2is-identity-samples-xacml.iml" filepath="$PROJECT_DIR$/xacml/wso2is-identity-samples-xacml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workflow/wso2is-workflow-samples.iml" filepath="$PROJECT_DIR$/workflow/wso2is-workflow-samples.iml" />
+    </modules>
+  </component>
+</project>

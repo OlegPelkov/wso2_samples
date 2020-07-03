@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oauth10a-resource-owner-equivalent" />
+        <module name="org.wso2.carbon.identity.samples.entitlement.kmarket.trading" />
+        <module name="custom-grant" />
+        <module name="playground2" />
+        <module name="org.wso2.identity.passivests.filter" />
+        <module name="info-recovery-sample" />
+        <module name="identity-samples-remote-user-mgt" />
+        <module name="org.wso2.sample.is.sso.agent" />
+        <module name="PassiveSTSSampleApp" />
+        <module name="scim-provisioning" />
+        <module name="sample-handler" />
+        <module name="org.wso2.carbon.identity.samples.sts" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="custom-grant" target="1.7" />
+      <module name="identity-samples-remote-user-mgt" target="1.7" />
+      <module name="info-recovery-sample" target="1.7" />
+      <module name="oauth10a-resource-owner-equivalent" target="1.7" />
+      <module name="org.wso2.carbon.identity.samples.entitlement.kmarket.trading" target="1.7" />
+      <module name="org.wso2.carbon.identity.samples.sts" target="1.7" />
+      <module name="org.wso2.identity.passivests.filter" target="1.6" />
+      <module name="org.wso2.sample.is.sso.agent" target="1.7" />
+      <module name="PassiveSTSSample" target="1.7" />
+      <module name="PassiveSTSSampleApp" target="1.7" />
+      <module name="playground2" target="1.7" />
+      <module name="sample-handler" target="1.7" />
+      <module name="samples" target="1.7" />
+      <module name="scim-provisioning" target="1.7" />
+      <module name="wso2is-identity-samples-info-recovery" target="1.7" />
+      <module name="wso2is-identity-samples-oauth10a" target="1.7" />
+      <module name="wso2is-identity-samples-oauth2" target="1.7" />
+      <module name="wso2is-identity-samples-passivests" target="1.7" />
+      <module name="wso2is-identity-samples-scim" target="1.7" />
+      <module name="wso2is-identity-samples-sso" target="1.7" />
+      <module name="wso2is-identity-samples-sts" target="1.7" />
+      <module name="wso2is-identity-samples-usermgt" target="1.7" />
+      <module name="wso2is-identity-samples-xacml" target="1.7" />
+      <module name="wso2is-workflow-samples" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
